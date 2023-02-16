@@ -21,7 +21,7 @@ lottie_coding4= load_lottieurl("https://assets6.lottiefiles.com/packages/lf20_4k
 lottie_coding5= load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_fi0ty9ak.json")
 image_3d=Image.open("images/c1.jpg")
 image_2d=Image.open("images/c3.jpg")
-image_logo=Image.open("images/logo.png")
+image_logo=Image.open("images/logo.jpg")
 # _____Header-Section____
 with st.container():
     left_column, right_column = st.columns((1.5,1.5))
