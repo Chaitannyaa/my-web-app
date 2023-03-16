@@ -1,4 +1,4 @@
-# My Profile Summary on Webpage using Streamlit an app framework in Python
+# My profile summary on webpage using streamlit an app framework in python
 
 - Streamlit-based webpage showcasing the my technical skills, academic projects, and fun Python projects. The webpage is divided into different sections, each with its own container.
 
