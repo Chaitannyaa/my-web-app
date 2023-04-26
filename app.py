@@ -27,7 +27,7 @@ with st.container():
     left_column, right_column = st.columns((1.5,1.5))
     with  left_column:
         st.subheader("Hi, I am Chaitannyaa :wave:")
-        st.title("A Python Lover :heart:")
+        st.title("A DevOps Enthusiast :heart:")
         st.write("I am passionate about learning new technologies and implement them to create some value")
         st.write("[Learn More >](https://www.linkedin.com/in/chaitannyaa-gaikwad-b16965115)")
         st.image(image_logo)    
