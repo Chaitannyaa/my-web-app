@@ -6,10 +6,3 @@ services:
     build: .
     ports:
       - "8501:8501"
-    volumes:
-      - ./data:/app
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8501/health"]
-      interval: 1m
-      timeout: 10s
-      retries: 3
