@@ -1,3 +1,5 @@
+# Web application to showcase technical profile 
+
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -11,11 +13,8 @@
 * [Contact](#contact)
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-## Web application to showcase technical profile 
 
 - Streamlit-based webpage showcasing the my technical skills, academic projects, and fun Python projects. The webpage is divided into different sections, each with its own text container.
 
@@ -79,28 +78,14 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
+Distributed under the MIT License. See [LICENSE](https://github.com/Chaitannyaa/Python_Streamlit_App/blob/f304aa44a1d1811fa80bf5b44cc5c194a4e821ae/LICENSE) for more information.
 
 <!-- CONTACT -->
 ## Contact
 
-Shubham Londhe - [shubhamlondhe1996](https://www.linkedin.com/in/shubhamlondhe1996/) - My LinkedIn
-Project Link: [https://github.com/LondheShubham153/fynd-my-movie](https://github.com/LondheShubham153/fynd-my-movie)
+Chaitannyaa Gaikwad - [CRMG1996](https://www.linkedin.com/in/chaitannyaa-gaikwad-b16965115/) - My LinkedIn
+Project Link: [https://github.com/Chaitannyaa/Python_Streamlit_App](https://github.com/Chaitannyaa/Python_Streamlit_App)
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/shubhamlondhe1996/
-[product-screenshot]: images/search.png
 
 
 
