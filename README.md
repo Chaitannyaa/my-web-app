@@ -48,16 +48,13 @@ pip --version
 ```
 ### Installation
 
+1. Clone the repository
 ```sh
 git clone https://github.com/Chaitannyaa/my-web-app.git
 ```
-1. Install python packages
+2. Install python packages
 ```sh
 pip install -r requirements.txt
-```
-2. Test the application
-```python
-pytest
 ```
 3. Run the application
 ```python
