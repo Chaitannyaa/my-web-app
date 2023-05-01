@@ -8,30 +8,6 @@
 
 - Finally, the webpage ends with a container that displays some more animations. This project helps to showcase technical skills, projects and work experiences in a different way !
 
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://ibb.co/sC0TMQV">
-    <img src="images/logo.jpeg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">FyndMyMovie</h3>
-
-  <p align="center">
-    An awesome task which allowed me to understand async functions and aiohttp!
-    <br />
-    <br />
-    <a href="https://fynd-my-movie.herokuapp.com/movies">View Demo</a>
-    ·
-    <a href="https://github.com/LondheShubham153/">Report Bug</a>
-    ·
-    <a href="https://github.com/LondheShubham153/">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -144,7 +120,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shubham Londhe - [@shubhamlondhe96](https://instagram.com/shubhamlondhe96) - My Instagram
 Shubham Londhe - [shubhamlondhe1996](https://www.linkedin.com/in/shubhamlondhe1996/) - My LinkedIn
 Project Link: [https://github.com/LondheShubham153/fynd-my-movie](https://github.com/LondheShubham153/fynd-my-movie)
 
