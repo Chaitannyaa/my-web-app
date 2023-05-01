@@ -28,7 +28,6 @@
 * [streamlit](https://docs.streamlit.io/)
 * [lottie_files](https://lottiefiles.com/)
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
