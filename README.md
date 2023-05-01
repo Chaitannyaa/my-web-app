@@ -1,13 +1,3 @@
-# My profile summary on webpage using streamlit an app framework in python
-
-- Streamlit-based webpage showcasing the my technical skills, academic projects, and fun Python projects. The webpage is divided into different sections, each with its own container.
-
-- The first section contains a header that includes a subheader, title, and an image. The second section contains information about Chaitannyaa's technical skills, including Cloud computing, Ubuntu, Docker, Kubernetes, and Python. Each skill is described in short, and there is a "Learn More" link that takes the you to my Github Account.
-
-- The third section showcases some animations related to coding and programming. The fourth section contains information about my academic project. It explains how the project designed and implemented a liquid cooling system based on the Thermosyphon principle to improve the performance of CPU processors. There are images of the project, and a link to actual photos.
-
-- Finally, the webpage ends with a container that displays some more animations. This project helps to showcase technical skills, projects and work experiences in a different way !
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -16,8 +6,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -27,75 +15,55 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot](images/search.png)
-![testing-screenshot](images/test.png)
+## Web application to showcase technical profile 
 
+- Streamlit-based webpage showcasing the my technical skills, academic projects, and fun Python projects. The webpage is divided into different sections, each with its own text container.
 
-There are many great Movie CRUD APIs available on GitHub, however, I didn't copy from them, I created FyndMyMovie which made me understand a new framework AIOHTTP. 
+- The first section contains a header that includes a subheader, title, and an image. The second section contains information about Chaitannyaa's technical skills, including Cloud computing, Ubuntu, Docker, Kubernetes, and Python. Each skill is described in short, and there is a "Learn More" link that takes the you to my Github Account.
 
-Here's why you should love this assignment:
-* I am fluent in Django, Flask and python-cli applications, learning Aiohttp added a new feather to my cap of Python frameworks.
-* Getting to know about async await was fun and insightful, this is the very first implementation of of the same.
-* You will find good code quality and code standards which can be used to demonstrate to beginners, if not no issues as we are in an agile world. Learning continously:)
+- The third section showcases some animations related to coding and programming. The fourth section contains information about my academic project. It explains how the project designed and implemented a liquid cooling system based on the Thermosyphon principle to improve the performance of CPU processors. There are images of the project, and a link to actual photos.
 
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+- Finally, the webpage ends with a container that displays some more animations. This project helps to showcase technical skills, projects and work experiences in a different way !
 
 ### Built With
-This application is built with love, dedication, coffee and:
-* [aiohttp](https://pypi.org/project/aiohttp/)
-* [sqlite3](https://www.sqlite.org/index.html)
 
+* [streamlit](https://docs.streamlit.io/)
+* [lottie_files](https://lottiefiles.com/)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
+```sh
+git clone https://github.com/Chaitannyaa/Python_Streamlit_App.git
+```
 ### Prerequisites
-
 
 * python
 ```sh
 python --version
 ```
-
+* pip
+```sh
+pip --version
+```
 ### Installation
 
-1. Get a free API Key at [https://www.linkedin.com/in/shubhamlondhe1996/](https://www.linkedin.com/in/shubhamlondhe1996/)
-2. Clone the repo
 ```sh
-git clone https://github.com/LondheShubham153/fynd-my-movie.git
+git clone https://github.com/Chaitannyaa/Python_Streamlit_App.git
 ```
-3. Install python packages
+1. Install python packages
 ```sh
 pip install -r requirements.txt
 ```
-4. Test the application
+2. Test the application
 ```python
 pytest
 ```
-5. Run the application
+3. Run the application
 ```python
-python app.py
+streamlit run app.py
 ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-_For more examples, please refer to the [Documentation](https://github.com/LondheShubham153/fynd-my-movie)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/LondheShubham153/fynd-my-movie/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -107,8 +75,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
 
 <!-- LICENSE -->
 ## License
