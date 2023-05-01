@@ -1,3 +1,5 @@
 LICENSE
 README.md
 Jenkinsfile
+Dockerfile
+docker-compose.yml
