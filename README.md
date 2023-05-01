@@ -34,7 +34,7 @@
 ## Getting Started
 
 ```sh
-git clone https://github.com/Chaitannyaa/Python_Streamlit_App.git
+git clone https://github.com/Chaitannyaa/my-web-app.git
 ```
 ### Prerequisites
 
@@ -49,7 +49,7 @@ pip --version
 ### Installation
 
 ```sh
-git clone https://github.com/Chaitannyaa/Python_Streamlit_App.git
+git clone https://github.com/Chaitannyaa/my-web-app.git
 ```
 1. Install python packages
 ```sh
@@ -84,7 +84,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Chaitannyaa/
 ## Contact
 
 Chaitannyaa Gaikwad - [CRMG1996](https://www.linkedin.com/in/chaitannyaa-gaikwad-b16965115/) - My LinkedIn
-Project Link: [https://github.com/Chaitannyaa/Python_Streamlit_App](https://github.com/Chaitannyaa/Python_Streamlit_App)
+Project Link: [https://github.com/Chaitannyaa/my-web-app](https://github.com/Chaitannyaa/my-web-app)
 
 
 
