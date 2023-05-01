@@ -9,11 +9,6 @@
 - Finally, the webpage ends with a container that displays some more animations. This project helps to showcase technical skills, projects and work experiences in a different way !
 
 
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
